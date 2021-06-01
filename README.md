@@ -1,6 +1,6 @@
 # BJD_LB3
 BJD_LB3 акустический расчёт(работает в облаке так-что запускается немного долго)
-для открытиядокумента нажимаем сюда:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdmlraIAckbar/BJD_LB3/main?filepath=bjd.ipynb)
+для открытиядокумента нажимаем сюда:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdmlraIAckbar/BJD_LB3/main?filepath=bjd.ipynb)   
 или на ссылку в конце
 
 (для выбора варианта вводим число здесь:
@@ -19,4 +19,3 @@ BJD_LB3 акустический расчёт(работает в облаке �
 https://mybinder.org/v2/gh/AdmlraIAckbar/BJD_LB3/main?filepath=bjd.ipynb
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdmlraIAckbar/BJD_LB3/main?filepath=bjd.ipynb)
